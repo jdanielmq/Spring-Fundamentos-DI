@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 
 import cl.springboot.di.app.services.IMiServicio;
 
-@Component("MiServicioComplejo")
+//@Component("MiServicioComplejo")
 public class MiServicioComplejoImpl implements IMiServicio{
 
 	@Override
